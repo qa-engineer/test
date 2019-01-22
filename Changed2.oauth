@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<oauthApplication id="1">
+  <name>Changed2</name>
+  <serviceProvider>Dropbox</serviceProvider>
+  <consumerKey>asdf</consumerKey>
+  <consumerSecret>asdf</consumerSecret>
+  <callbackURL>http://localhost:50080/OAuthCallback</callbackURL>
+  <project id="2"/>
+  <modifiedBy>anonymousUser</modifiedBy>
+  <revisionNumber>dff3e2515407a9b52e899dc11c8d32ddc2224162</revisionNumber>
+  <commitMessage>Changed2</commitMessage>
+  <lastModified id="3">2019-01-21 15:19:57.0 UTC</lastModified>
+  <oAuthBytes id="4"/>
+</oauthApplication>
